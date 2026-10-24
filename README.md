@@ -1,5 +1,7 @@
-# 💫 About Me:
-I am a student 
+# 💫 hello 👋 
+Student @ [RNS first grade collage ]
+Currently learning: [gen AI,]
+I Open to internships and open-source contributions!
 
 
 ## 🌐 Socials:
